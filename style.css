@@ -1,0 +1,55 @@
+.a{
+    background-color: rgb(161, 111, 207);
+    border: 5px solid red;
+    border-radius: 20px;
+    text-align: center;
+}
+.b{
+    color: green;
+}
+.c{
+    background-color: yellow;
+    color: green;
+    text-align: center;
+}
+.j{
+    color: green;
+}
+.h{
+    background-color:lightblue;
+    width: 250px;
+    height: 30px;
+    border: none;
+    color: white;
+}
+.d{
+    background-color: blue;
+}
+.k{
+    border: 1px solid rgb(232, 197, 197);
+    text-align: center;
+    width: 1000px;
+    color: white;
+}
+tr,td{
+    border: 1px solid ;
+}
+.qora{
+    background-color:black;
+}
+.qizil{
+    background-color: red;
+
+}
+.yashil{
+    background-color: green;
+}
+.kok{
+    background-color: blue;
+}
+.l{
+    color: red;
+}
+.p{
+    width: 1500px;
+}
